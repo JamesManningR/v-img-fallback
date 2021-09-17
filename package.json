@@ -2,6 +2,25 @@
   "name": "v-img-fallback",
   "version": "0.1.5",
   "description": "Vue imge placeholder directive for broken images.",
+  "keywords": [
+    "es5",
+    "es6",
+    "esm",
+    "vue3"
+  ],
+  "homepage": "https://github.com/JamesManningR/v-img-fallback#readme",
+  "bugs": {
+    "url": "https://github.com/JamesManningR/v-img-fallback/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesManningR/v-img-fallback.git"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Jofferson Ramirez Tiquez",
+    "James Ryan Manning <jamesmanningr98@gmail.com>"
+  ],
   "main": "main.js",
   "module": "index.js",
   "scripts": {
@@ -9,20 +28,5 @@
   },
   "dependencies": {
     "esm": "3.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jofftiquez/v-img-fallback.git"
-  },
-  "keywords": [
-    "es5",
-    "es6",
-    "esm"
-  ],
-  "author": "Jofferson Ramirez Tiquez",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jofftiquez/v-img-fallback/issues"
-  },
-  "homepage": "https://github.com/jofftiquez/v-img-fallback#readme"
+  }
 }

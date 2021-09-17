@@ -30,7 +30,7 @@ module.exports = {
 ### Install globally
 ```js
 import Vue from 'vue';
-import VueImgFallback from 'v-img-fallback';
+import VueImgFallback from 'vue3-img-fallback';
 
 Vue.use(VueImgFallback, {
   loading: 'path/to/loading/image',
@@ -45,7 +45,7 @@ Vue.use(VueImgFallback, {
 </template>
 
 <script>
-import { ImgFallback } from 'v-img-fallback';
+import { ImgFallback } from 'vue3-img-fallback';
 
 export default {
   directives: {
@@ -113,3 +113,5 @@ Path or image url. This value will be used in both loading and error state.
 `loading` value can be a `.gif` **Gee**. **Ahy**. **Ef**. *(I will die with dignity LOL)*.
 
 **Made with :heart: by Jofferson Ramirez Tiquez**
+
+**Updated for Vue3 by James Ryan Manning**

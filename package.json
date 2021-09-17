@@ -1,5 +1,5 @@
 {
-  "name": "v-img-fallback",
+  "name": "@altgen/vue3-img-fallback",
   "version": "0.1.5",
   "description": "Vue imge placeholder directive for broken images.",
   "keywords": [

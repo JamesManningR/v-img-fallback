@@ -1,6 +1,6 @@
 {
   "name": "vue-3-fallback-img",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vue imge placeholder directive for broken images.",
   "keywords": [
     "es5",

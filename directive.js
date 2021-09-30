@@ -10,7 +10,7 @@ export default {
     let original = el.src;
 
     if (!value) {
-      console.warn(
+      console.info(
         `Vue Img Fallback Warning: Directive value is ${typeof value}. Now using default values.`
       );
     }

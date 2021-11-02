@@ -1,12 +1,17 @@
 {
   "name": "vue-3-fallback-img",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Vue imge placeholder directive for broken images.",
   "keywords": [
     "es5",
     "es6",
     "esm",
-    "vue3"
+    "vue3",
+    "vue",
+    "directive",
+    "img",
+    "loading",
+    "placeholder"
   ],
   "homepage": "https://github.com/JamesManningR/v-img-fallback#readme",
   "bugs": {
